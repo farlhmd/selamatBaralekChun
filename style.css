@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 @media all and (max-width: 670px) {
-  body {
+  .wrap {
     width: 100%;
   }
 }
